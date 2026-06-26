@@ -10,6 +10,15 @@
 
 ---
 
+### 💰 Support
+
+| Method | Details |
+|--------|---------|
+| **USDT (BSC/BEP-20)** | `0x36243059d93aa8254fbe17e148f7413161356f88` |
+| **Binance ID** | `290696706` |
+
+---
+
 ### 🛠 Tech Stack
 
 <p align="center">
@@ -31,17 +40,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=imramflow&show_icons=true&theme=radical&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imramflow&layout=compact&theme=radical&hide_border=true" height="150"/>
 </p>
-
----
-
-### 💰 Support
-
-If you find my work helpful, consider supporting me:
-
-| Method | Details |
-|--------|---------|
-| **USDT (BSC/BEP-20)** | `0x36243059d93aa8254fbe17e148f7413161356f88` |
-| **Binance ID** | `290696706` |
 
 <p align="center">
   <i>Thanks for stopping by! 🚀</i>
